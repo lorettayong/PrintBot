@@ -6,7 +6,7 @@ As a team, we unanimously agreed to help one of our group members, the CEO of a 
 
 Found in this repository are the slides deck that the team had used for the presentation and the JSON file for the creation of PrintBot using Watson Assistant as extracted from IBM Cloud.
 
-And for those who are curious about PrintBot's capabilities to answer enquiries related to the very-domain-specific printing business, you could test him out via this link: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2479f2d0-0657-49f4-b14b-ff4d13ad1a15&serviceInstanceID=8d13096d-21ed-4bdf-9600-882045e8086d
+And for those who are curious about PrintBot's capabilities to answer enquiries related to the very-domain-specific printing business, you could test him out via [this link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2479f2d0-0657-49f4-b14b-ff4d13ad1a15&serviceInstanceID=8d13096d-21ed-4bdf-9600-882045e8086d).
 (Please note that this link will no longer be valid in time to come as the Lite plan on IBM Cloud will be expiring soon).
 
 Thank you very much.
